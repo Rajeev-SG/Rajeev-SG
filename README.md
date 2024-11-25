@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @Rajeev-SG
-- 👀 I’m interested in Advertising and AI
-- 🌱 I’m currently learning about LLM-assisted software development, adtech platforms, analytics and data platforms
+# 👋 Hi, I’m [@Rajeev-SG](https://github.com/Rajeev-SG)
 
-- I am currently working on:
--   A blogging platform so that I can keep track of everything I work on
-  -   A LLM-Assisted software development workflow
-  -   A documentation-builder-suite (?)
-  -   Apps Script services for bulk ad operations tasks
-  -   A system for building, organising, adapating, sharing, engineering LLM prompts
-  -   Understanding AI Agents
+## 👀 Interests
+- **Advertising**
+- **AI**
+
+## 🌱 Currently Learning
+- LLM-assisted software development
+- Adtech platforms
+- Analytics and data platforms
+
+## 🚀 Current Projects
+- **Blogging Platform**: A platform to keep track of everything I work on
+- LLM-Assisted software development workflow
+- Documentation-builder suite (?)
+- Apps Script services for bulk ad operations tasks
+- System for building, organizing, adapting, sharing, and engineering LLM prompts
+- Understanding AI Agents
 
 <!---
 Rajeev-SG/Rajeev-SG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
