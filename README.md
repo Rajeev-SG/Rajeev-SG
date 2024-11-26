@@ -3,6 +3,9 @@
 ## 👀 Interests
 - **Advertising**
 - **AI**
+- **Data**
+- **Tech**
+- **Politics**
 
 ## 🌱 Currently Learning
 - LLM-assisted software development
